@@ -5,4 +5,4 @@ go/pkg/
 #png file ignore
 *.png
 *.exe
-*.ink
+*.lnk
