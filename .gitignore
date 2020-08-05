@@ -1,6 +1,7 @@
 #go bin & pkg
 go/bin/
 go/pkg/
+.vscode/
 
 #png file ignore
 *.png
