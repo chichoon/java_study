@@ -1,0 +1,8 @@
+#go bin & pkg
+go/bin/
+go/pkg/
+
+#png file ignore
+*.png
+*.exe
+*.ink
