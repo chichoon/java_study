@@ -1,1 +1,0 @@
-print(int(''.join([str(int(input()) - 1), "666"])))
