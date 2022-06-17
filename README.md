@@ -1,12 +1,7 @@
 # WARNING ! No more updates here  
-(archive for 2019 school projects & java algorithm solutions)  
-
-no more further updates for java - wanna concentrate in python (Data Processing)  
-if studying for another languages - create another repo for certain language  
-
-[파이썬](https://github.com/chichoon/python_alg) 계속 하기로 마음을 굳 게 먹었읍니다..  
-(취미용 앱개발도 React Native & Kotlin 쓸듯)  
+(archive for 2019 school projects & java algorithm solutions)
   
-더이상 해당 repo에 업데이트는 없습니다 (과거 학교 과제 아카이빙용으로 사용)  
-파이썬 데이터처리와 알고리즘을 주력으로 + Golang, 프론트엔드를 취미로 공부할 것 같습니다  
-새로운 study 결과물은 새로운 repository를 생성하여 올려두기로 합니다..  
+2019년 학교 프로젝트와 Java로 작성한 알고리즘 문제풀이 레포지토리입니다 
+더이상 해당 repo에 업데이트는 없습니다 (과거 학교 과제 아카이빙용으로 사용)
+자바는... 제 입맛에 안 맞나 봅니다
+새로운 study 결과물은 새로운 repository를 생성하여 올려두는 중입니다
